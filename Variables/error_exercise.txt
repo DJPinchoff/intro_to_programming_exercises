@@ -1,0 +1,9 @@
+NameError: undefined local variable or method `shoes' for main:Object
+  from (irb):3
+  from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+  
+ANSWER:
+  The error says that you are trying to access the value of a variable or
+  method called 'shoes' which doesn't exist in your current scope of code. 
+  Perhaps you created the 'shoes' variable in a method and are trying to
+  access it outside of the method?!?
