@@ -1,0 +1,9 @@
+1. x = 2 evaluates to:  2 (Integer)
+
+2. puts x = 2 evaluates to:  nil (because of puts)
+
+3. p name = "Joe" evaluates to: "Joe" (String)
+
+4. four = "four" evaluates to:  "four" (String)
+
+4. print something = "nothing" evaluates to: nil (because of print)

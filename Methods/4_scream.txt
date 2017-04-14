@@ -1,0 +1,11 @@
+def scream(words)
+  words = words + "!!!!"
+  return
+  puts words
+end
+
+scream("Yippeee")
+
+ANSWER:
+  The above code will not print anything to the screen
+  because the return comes before the puts.
