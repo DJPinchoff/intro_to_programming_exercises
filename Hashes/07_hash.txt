@@ -1,0 +1,8 @@
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+The difference between these is:
+
+1) The code on Line 2 creates a symbol :x which is the key to the string value.
+2) The code on Line 3 references the variable x which point to a string "hi there" that is now the key to the string value. 
