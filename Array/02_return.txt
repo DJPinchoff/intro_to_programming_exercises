@@ -1,0 +1,12 @@
+1. arr = ["b", "a"]
+   arr = arr.product(Array(1..3))
+   arr.first.delete(arr.first.last)
+
+2. arr = ["b", "a"]
+   arr = arr.product([Array(1..3)])
+   arr.first.delete(arr.first.last)
+   
+   1. The first one returns 1 because the array created on line 2 modifies the first array to [[b, 1], [b, 2]...[a, 3]]. Line 3 deletes the last element in the first element of the new array which is 1.
+   
+   2.  This one returns [1, 2, 3] because the elements in the new array created on line 6 is [[b, [1, 2, 3], a, [1, 2, 3]]. the last element of the first element is [1, 2, 3].
+   
