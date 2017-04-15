@@ -1,0 +1,6 @@
+The Ruby API that I seem to go to the most is https://docs.ruby-lang.org.
+
+I like it because of the easy to follow links for the methods on the left that are available to the Class.
+
+In the examples of each method, the code is usually succint and really easy to comprehend and follow for my personal problem.
+

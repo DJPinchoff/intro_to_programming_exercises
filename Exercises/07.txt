@@ -1,0 +1,2 @@
+Array = ordered list by index number starting at 0
+Hash = list, not necessarily ordered, whose info is accessed by key/value pairs.

@@ -1,0 +1,17 @@
+array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+#Exercise 4
+array.unshift(0)
+array.push(11)
+
+p array
+
+#Exercise 5
+array.pop
+array.push(3)
+
+p array
+
+#Exercise 6
+p array.uniq
+
