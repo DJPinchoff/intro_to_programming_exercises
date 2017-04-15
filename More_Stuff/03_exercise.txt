@@ -1,0 +1,1 @@
+Exception handling is the way to account for a possible error if the wrong type of information is being passed around to methods. It allows for a logging of the error, without having to shut down the entire execution of the whole program.
