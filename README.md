@@ -1,0 +1,1 @@
+This repository is to document my work with Launchschool.com's Intro to Programming Book.
